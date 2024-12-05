@@ -1,0 +1,14 @@
+README.md
+setup.py
+Modelo_Estandar/__init__.py
+Modelo_Estandar/analisis.py
+Modelo_Estandar/gui.py
+Modelo_Estandar/particulas.py
+Modelo_Estandar.egg-info/PKG-INFO
+Modelo_Estandar.egg-info/SOURCES.txt
+Modelo_Estandar.egg-info/dependency_links.txt
+Modelo_Estandar.egg-info/requires.txt
+Modelo_Estandar.egg-info/top_level.txt
+tests/__init__.py
+tests/test_analisis.py
+tests/test_particulas.py
